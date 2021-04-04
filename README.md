@@ -7,7 +7,7 @@ Demonstration of how Javascript can be used to work with computer IO (input/outp
 
 <h2>Installation.</h2>
 
-Download the whole repository as a zip file. And double click on index.html to run the program. 
+Download the whole repository as a zip file. And double click on index.html to run the program. One can clone the repository as will if some one wants to start adding new features to the project.  
 
 
 <h2>Future improvement</h2>
