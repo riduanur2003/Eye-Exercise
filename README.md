@@ -12,7 +12,7 @@ Download the whole repository as a zip file. And double click on index.html to r
 
 <h2>Future improvement</h2>
 
-add a mouth and as the mouse is moved from left to right, the “mouth” turns from “happy” to “unhappy”. Possibly can be done with SVG manipulation.
+Add a mouth and as the mouse is moved from left to right, the “mouth” turns from “happy” to “unhappy”. Possibly can be done with SVG manipulation.
 
 
 
